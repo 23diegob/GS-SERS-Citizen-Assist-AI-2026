@@ -1,6 +1,6 @@
 # Citizen Assist AI — Energia e Sustentabilidade
 
-**FIAP · Global Solution 2026.2 · Bacharelado em Ciência da Computação**  
+**Global Solution 2026.2**  
 **Disciplina:** Soluções em Energias Renováveis e Sustentáveis  
 **Tema:** Citizen Assist AI — orientação cidadã fundamentada em dados
 
