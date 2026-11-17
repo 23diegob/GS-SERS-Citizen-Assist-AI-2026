@@ -1,0 +1,12 @@
+﻿parametro;valor_padrao;unidade;classificacao;justificativa;referencia
+lampadas;10;unidade;estimativa;Cenário didático, moradia-modelo hipotética;sem fonte externa para número
+potencia_atual_w;60.0;W/lâmpada;estimativa apoiada por fonte pública;DOE associa incandescente de 60 W a aproximadamente 800 lm;https://www.energy.gov/cmei/femp/purchasing-energy-efficient-light-bulbs
+potencia_led_w;9.0;W/lâmpada;valor ilustrativo dentro de faixa pública;DOE informa LED 5,9 a 10,5 W para aproximadamente 800 lm;https://www.energy.gov/cmei/femp/purchasing-energy-efficient-light-bulbs
+horas_dia;5.0;h/dia;estimativa;Uso hipotético, não medido;sem fonte externa para número
+dias_mes;30;dias/mês;convenção da simulação;Mês de 30 dias para comparação comum;sem fonte externa para número
+tarifa_rs_kwh;0.9;R$/kWh;estimativa;Tarifa didática, não tarifa real de distribuidora;sem fonte externa para número
+preco_led_unit_rs;15.0;R$/lâmpada;estimativa;Preço hipotético, não pesquisa de mercado;sem fonte externa para número
+potencia_solar_kwp;1.0;kWp;estimativa;Sistema FV hipotético, sem projeto de engenharia;sem fonte externa para número
+sol_pleno_h_dia;4.0;h/dia;estimativa;"Não consultado para coordenadas reais; verificar SunData";https://www.cresesb.cepel.br/index.php?section=sundata
+desempenho_solar;0.75;fração 0 a 1;estimativa;Hipótese de perdas combinadas, não laudo técnico;sem fonte externa para número
+custo_solar_rs;5000.0;R$/sistema;estimativa;Custo hipotético, ANEEL não define preço;https://www.gov.br/aneel/pt-br/assuntos/geracao-distribuida

@@ -1,0 +1,27 @@
+CITIZEN ASSIST AI / SERS — REGISTRO DE TESTES AUTOMATIZADOS
+Data da execução: 17/11/2026
+Ambiente: Python, módulo unittest
+Comando: python -m unittest discover -s tests -v
+Natureza: testes de software (não representam avaliação com participantes)
+
+test_cenarios_escalonam (test_energia.TesteCalculosEnergeticos.test_cenarios_escalonam) ... ok
+test_consumo_base (test_energia.TesteCalculosEnergeticos.test_consumo_base) ... ok
+test_led (test_energia.TesteCalculosEnergeticos.test_led) ... ok
+test_rejeita_potencias_incompativeis (test_energia.TesteCalculosEnergeticos.test_rejeita_potencias_incompativeis) ... ok
+test_rejeita_quantidade_fracionada (test_energia.TesteCalculosEnergeticos.test_rejeita_quantidade_fracionada) ... ok
+test_rejeita_uso_exagerado (test_energia.TesteCalculosEnergeticos.test_rejeita_uso_exagerado) ... ok
+test_rejeita_valor_nao_finito (test_energia.TesteCalculosEnergeticos.test_rejeita_valor_nao_finito) ... ok
+test_solar (test_energia.TesteCalculosEnergeticos.test_solar) ... ok
+test_solar_compensacao_limitada_ao_servico (test_energia.TesteCalculosEnergeticos.test_solar_compensacao_limitada_ao_servico) ... ok
+test_cin_8_combinacoes (test_energia.TesteRespostas.test_cin_8_combinacoes) ... ok
+test_entrada_desconhecida (test_energia.TesteRespostas.test_entrada_desconhecida) ... ok
+test_normalizacao (test_energia.TesteRespostas.test_normalizacao) ... ok
+test_pergunta_gasto (test_energia.TesteRespostas.test_pergunta_gasto) ... ok
+test_pergunta_led_contém_resultado (test_energia.TesteRespostas.test_pergunta_led_contém_resultado) ... ok
+test_pergunta_solar_tem_ressalva (test_energia.TesteRespostas.test_pergunta_solar_tem_ressalva) ... ok
+test_resposta_comparacao_usa_duas_alternativas (test_energia.TesteRespostas.test_resposta_comparacao_usa_duas_alternativas) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.001s
+
+OK
